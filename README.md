@@ -4,7 +4,7 @@ Go 语言学习资料与社区索引
 
 鉴于之前有人做的 [索引资料](https://github.com/wonderfo/wonderfogo/wiki) 已经过期超过 2 年，所以特开此坑。各位同学可以通过发起 Fork + Pull Request 的方式进行补充和更新。
 
-**最后更新时间**：2018 年 03 月 02 日
+**最后更新时间**：2018 年 04 月 25 日
 
 ## 交流社区
 
@@ -45,9 +45,11 @@ Go 语言学习资料与社区索引
 	- [Revel](https://github.com/revel/revel)：较早成熟的重量级 Web 框架
 	- [Martini](https://github.com/go-martini/martini): 一个强大为了编写模块化 Web 应用而生的 Go 语言框架
 	- [Echo](https://echo.labstack.com/): 功能模块齐全, 上手容易, 文档示例齐全
+	- [Gin](https://github.com/gin-gonic/gin)：轻量级 HTTP Web 框架
 - ORM 以及数据库驱动：
 	- [xorm](https://github.com/go-xorm/xorm)：支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
 	- [mgo](http://labix.org/mgo)：MongoDB 官方推荐驱动
+	- [gorm](https://github.com/jinzhu/gorm): 全功能 ORM (无限接近) 支持 MySQL、PostgreSQL、SQLite3 以及 MsSQL
 - 辅助站点：
 	- [Go Walker](https://gowalker.org)：Go 语言在线 API 文档
 	- [gobuild.io](http://gobuild.io/)：Go 语言在线二进制编译与下载
